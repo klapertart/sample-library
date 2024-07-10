@@ -11,4 +11,5 @@ public class Const {
     public static final String DT_TZ_PATTERN = "yyyy-MM-dd'T'HH:mm:ssXXX";
     public static final String DT_TZ_PATTERN_WTOFFSET = "yyyy-MM-dd'T'HH:mm:ss";
     public static final String DT_CCT_PATTERN = "yyyyMMddHHmmss";
+    public static final String CONST_VERSI_002 = "versi 002";
 }
