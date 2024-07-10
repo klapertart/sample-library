@@ -103,7 +103,7 @@ pipeline {
                             mvn generate-resources
                             git add .
                             git commit -m "docs: update changelog"
-                            git push origin prod
+                            git push origin master
                         '''
                     }
                 }
